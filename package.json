@@ -1,0 +1,29 @@
+{
+    "name": "vscode-abolkog-light",
+    "displayName": "Abolkog light",
+    "description": "VSCode Light Theme",
+    "version": "0.0.1",
+    "publisher": "abolkog",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/abolkog/vscode-abolkog-light"
+    },
+    "bugs": {
+        "url": "https://github.com/abolkog/vscode-abolkog-light/issues"
+    },
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Abolkog Light",
+                "uiTheme": "vs",
+                "path": "./themes/Abolkog Light-color-theme.json"
+            }
+        ]
+    }
+}
