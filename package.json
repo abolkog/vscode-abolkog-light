@@ -2,7 +2,7 @@
     "name": "vscode-abolkog-light",
     "displayName": "Abolkog light",
     "description": "VSCode Light Theme",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "abolkog",
     "icon": "imgs/icon.png",
     "repository": {
