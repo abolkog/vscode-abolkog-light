@@ -1,4 +1,4 @@
-# Abolkog Light Theme
+# ABOLKOG Theme
 
 [VSCode](https://code.visualstudio.com/) editor theme based on [GitHub Plus Theme](https://github.com/thenikso/github-plus-theme) and other themese combind
 

@@ -1,9 +1,12 @@
 {
     "name": "vscode-abolkog-light",
-    "displayName": "Abolkog light",
-    "description": "VSCode Light Theme",
+    "displayName": "ABOLKOG theme",
+    "description": "Yet antoher Visual Studio Code Theme",
     "version": "1.0.0",
     "publisher": "abolkog",
+    "author": {
+        "name": "Khalid Elshafie"
+    },
     "icon": "imgs/abolkog.png",
     "repository": {
         "type": "git",
@@ -21,9 +24,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Abolkog Light",
+                "label": "ABOLKOG Light",
                 "uiTheme": "vs",
-                "path": "./themes/Abolkog Light-color-theme.json"
+                "path": "./themes/light.json"
             }
         ]
     }
