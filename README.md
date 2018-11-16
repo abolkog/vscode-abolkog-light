@@ -6,12 +6,12 @@ A [VSCode](https://code.visualstudio.com/) theme (Dark and Light themese).
 ## Dark Theme
 Dark theme and terminal ScreenShot (JavaScript)
 
-![screenshot](./imgs/dark-screenShot.png)
+![screenshot](https://github.com/abolkog/vscode-abolkog-theme/blob/master/imgs/dark-screenShot.png)
 
 ## Light Theme
 Light theme and terminal ScreenShot  (JavaScript)
 
-![screenshot](./imgs/light-screenShot.png)
+![screenshot](https://github.com/abolkog/vscode-abolkog-theme/blob/master/imgs/light-screenshot.png)
 
  based on  and other themese combind
 
