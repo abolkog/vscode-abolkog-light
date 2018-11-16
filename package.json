@@ -5,15 +5,17 @@
     "version": "1.0.1",
     "publisher": "abolkog",
     "author": {
-        "name": "Khalid Elshafie"
+        "name": "Khalid Elshafie",
+        "url": "https://abolkog.com"
     },
+    "license": "MIT",
     "icon": "imgs/abolkog.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/abolkog/vscode-abolkog-light"
+        "url": "https://github.com/abolkog/vscode-abolkog-theme"
     },
     "bugs": {
-        "url": "https://github.com/abolkog/vscode-abolkog-light/issues"
+        "url": "https://github.com/abolkog/vscode-abolkog-theme/issues"
     },
     "engines": {
         "vscode": "^1.24.0"
@@ -27,7 +29,21 @@
                 "label": "ABOLKOG Light",
                 "uiTheme": "vs",
                 "path": "./themes/light.json"
+            },
+            {
+                "label": "ABOLKOG Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark.json"
             }
         ]
-    }
+    },
+    "keywords": [
+        "Theme",
+        "clean",
+        "dark",
+        "light",
+        "minimal",
+        "flat",
+        "Vscode"
+    ]
 }

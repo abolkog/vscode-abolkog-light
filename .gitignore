@@ -1,6 +1,2 @@
-node_modules
 *.vsix
-.vscode
-
-### OSX template
 .DS_Store
